@@ -1,0 +1,28 @@
+{
+  "name": "myspider",
+  "version": "1.0.0",
+  "description": "A research warehouse for crawler technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongfangkai/myspider.git"
+  },
+  "keywords": [
+    "spider",
+    "puppeteer"
+  ],
+  "author": "fangkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongfangkai/myspider/issues"
+  },
+  "homepage": "https://github.com/zhongfangkai/myspider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^1.19.0"
+  }
+}
